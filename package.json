@@ -1,0 +1,12 @@
+{
+  "name": "Nodejs_01",
+  "version": "1.0.0",
+  "description": "kieudoanDev",
+  "main": "src/server.js",
+  "author": "kieudoanDev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
